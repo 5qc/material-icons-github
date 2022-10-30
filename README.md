@@ -3,6 +3,8 @@
 <p align="center">
 
 <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/69418bbff590d19c0123fc091a765d984cf636ff/icons/folder-github.svg" alt="Material GitHub Folder Icon" height="200" />
+<br />
+<img src="https://raw.githubusercontent.com/5qc/material-icons-github/main/extra/mig-example.png" alt="Material Icons GitHub Example" height="200" />
 </p>
 <h3 align="center">Material Icons GitHub</h3>
 
