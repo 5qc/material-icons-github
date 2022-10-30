@@ -1,7 +1,7 @@
 /*
 *   This is the script I used to convert the icons from https://github.com/PKief/vscode-material-icon-theme/blob/main/src/icons/fileIcons.ts
 *   and https://github.com/PKief/vscode-material-icon-theme/blob/main/src/icons/folderIcons.ts into a nice compatible JSON file. See values.json
-*   to see the result of that. ()
+*   to see the result of that (with some extra files that weren't in the original that should've been in the original but you won't know which ones.)
 */
 
 const obj1 = {}
